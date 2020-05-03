@@ -1,13 +1,13 @@
 # ZADANIA TEORETYCZNE
 
 ### 1. Jaki argument odpowiada za połączenie TCP?
-**a)** AF\_INET
-**b)** AF\_INET6
-**c)** SOCK\_DGRAM
+**a)** AF\_INET  
+**b)** AF\_INET6  
+**c)** SOCK\_DGRAM  
 **d)** SOCK\_STREAM
 
 ### 2. Chcąc wysłać obiekt x = [1, 2, 3] użyjemy komendy:
-**a)** conn.sendall(str.encode(x))
+**a)** conn.sendall(str.encode(x))  
 **b)** conn.sendall(pickle.dumps(x))
 
 ### 3. Mając obiekt client = socket.socket(socket.AF\_INET, socket.SOCK\_STREAM), napisz, jaką komendą połączysz się z serwerem o adresie 192.168.2.1 na porcie 5525.
@@ -15,8 +15,8 @@
 ### 4. Napisz jaki wynik zwraca funkcja atan2 i dlaczego dodajemy do niego wartość 180°. 
 
 ### 5. Do czego służy funkcja blit?
-**a)** tworzy kopię grafiki i uzyskuje z niej kwadrat
-**b)** przypisuje grafikę do określonego miejsca ekranu
+**a)** tworzy kopię grafiki i uzyskuje z niej kwadrat  
+**b)** przypisuje grafikę do określonego miejsca ekranu  
 **c)** obraca grafikę o podany kąt
 
 # ZADANIA PRAKTYCZNE
