@@ -12,7 +12,7 @@
 
 ### 3. Mając obiekt client = socket.socket(socket.AF\_INET, socket.SOCK\_STREAM), napisz, jaką komendą połączysz się z serwerem o adresie 192.168.2.1 na porcie 5525.
 
-### 4. Napisz jaki wynik zwraca funkcja atan2 i dlaczego dodajemy do niego wartość 180°. 
+### 4. Napisz jaki wynik zwraca funkcja atan2 i dlaczego dodajemy do niego wartość 180° aby uzyskać prawidłowe śledzenie kursora myszy. 
 
 ### 5. Do czego służy funkcja blit?
 **a)** tworzy kopię grafiki i uzyskuje z niej kwadrat  
