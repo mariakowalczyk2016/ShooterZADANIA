@@ -16,8 +16,9 @@
 
 ### 5. Do czego służy funkcja blit?
 **a)** tworzy kopię grafiki i uzyskuje z niej kwadrat  
-**b)** przypisuje grafikę do określonego miejsca ekranu  
+**b)** służy do rysowania jednych obiektów Surface na drugich 
 **c)** obraca grafikę o podany kąt
+**d)** wypełnia całe okno danym kolorem
 
 # ZADANIA PRAKTYCZNE
 
